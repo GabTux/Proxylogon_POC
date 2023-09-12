@@ -17,4 +17,4 @@ Server\\V15\\FrontEnd\\HttpProxy\\ecp\\auth\\EvilCorp.aspx" \
 -r "/ecp/auth/EvilCorp.aspx" \
 -s EvilCorp
 ```
-![expl_pycharm_console_dark](https://github.com/GabTux/Proxylogon_POC/assets/24779546/336ff83c-25ad-448d-9940-fd79308895f4)
+![expl_pycharm_console_dark](https://github.com/GabTux/Proxylogon_POC/assets/24779546/13fb2625-5557-472e-b8fe-7559dcefd617)
